@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab1">
+      <UniqueIdentifier>{9899e905-60cb-4ea1-86df-73f383ac11e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab2">
+      <UniqueIdentifier>{534b5cba-260f-4e93-b4bc-347e58cc0368}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab3">
+      <UniqueIdentifier>{921a5c08-188f-42c8-9c1a-d3972f2014f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab4">
+      <UniqueIdentifier>{6b5b36bb-afa2-410d-93c5-cdcd3dc531ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab5">
+      <UniqueIdentifier>{2deca04b-549d-40ed-b0e8-38577e0af9cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab6">
+      <UniqueIdentifier>{346b9003-75fb-4de7-872e-af44e3c134e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab7">
+      <UniqueIdentifier>{6d925be1-b79e-4e73-a96a-e5d530dd9716}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lab1_1.c">
+      <Filter>Исходные файлы\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1_2.c">
+      <Filter>Исходные файлы\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1_3.c">
+      <Filter>Исходные файлы\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="scheduler.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1_4.c">
+      <Filter>Исходные файлы\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1_homework.c">
+      <Filter>Исходные файлы\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2_1.c">
+      <Filter>Исходные файлы\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2_2.c">
+      <Filter>Исходные файлы\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2_3.c">
+      <Filter>Исходные файлы\Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3_1.c">
+      <Filter>Исходные файлы\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3_2.c">
+      <Filter>Исходные файлы\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3_3.c">
+      <Filter>Исходные файлы\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab3_homework.c">
+      <Filter>Исходные файлы\Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4_1.c">
+      <Filter>Исходные файлы\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4_2.c">
+      <Filter>Исходные файлы\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4_3.c">
+      <Filter>Исходные файлы\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab4_homework.c">
+      <Filter>Исходные файлы\Lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab5_1.c">
+      <Filter>Исходные файлы\Lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab5_2.c">
+      <Filter>Исходные файлы\Lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab5_3.c">
+      <Filter>Исходные файлы\Lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab5_homework.c">
+      <Filter>Исходные файлы\Lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab6_1.c">
+      <Filter>Исходные файлы\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab6_2.c">
+      <Filter>Исходные файлы\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab6_3.c">
+      <Filter>Исходные файлы\Lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab6_homework.c">
+      <Filter>Исходные файлы\Lab6</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
